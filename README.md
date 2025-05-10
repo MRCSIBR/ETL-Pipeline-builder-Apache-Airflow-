@@ -1,8 +1,7 @@
 
 
 # ETL-Pipeline-builder-Apache-Airflow  
-Reusable template for building ETL workflows using Airflow, including DAGs for data extraction, transformation, and loading into databases or data warehouses.
-
+Plantilla reutilizable para construir flujos de trabajo ETL utilizando Airflow, incluyendo DAGs para la extracción, transformación y carga de datos en bases de datos o almacenes de datos.
 ## Requisitos  
 - Docker  
 - Docker Compose  
